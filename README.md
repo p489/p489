@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Parishi Gupta. 
 -  I’m interested in the domain of data science and I am very much fascinated by this field applications in real life.
--  I’m currently learning data science.
+-  I’m currently learning more in this domain. 
+-  Happy to collaborate on projects.
 
 
 <!---
